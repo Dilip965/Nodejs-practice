@@ -28,3 +28,13 @@ a.a="right"
 a.age=33
 a
 console.log(a);
+
+
+var name="one"
+var age=33;
+console.log("hello %s is %s year",name,age);
+//means we can do direclty with it 
+
+console.log(`his ${name},you are age ${age}`);
+    
+//templating string
